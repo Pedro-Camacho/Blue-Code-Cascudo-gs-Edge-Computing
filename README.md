@@ -1,7 +1,9 @@
 # Blue-Code-Cascudo-gs-Edge-Computing
 O cascudo é o prototipo de um barco autônomo que prestará serviço para tanto criadores de peixes terem acesso aos dados em relação aos seus viveiros nos oceanos abertos, tanto para pesquisadores realizarem coletas de dados, a interpretação deles e tranformaram eles em informações valiosas para o cenário de pesquisas.
-## Link para o video explicativo:
+## Link para o video explicativo e link para projeto no tinkercadd:
 https://youtu.be/9VVjUJUy2nc
+</br>
+https://www.tinkercad.com/things/5p0mQXDwbDp-blue-code-cascudo-global-solution
 ## Montagem 
 Os componentes usados para prototipar nosso projeto foram:
  * Arduino Uno
